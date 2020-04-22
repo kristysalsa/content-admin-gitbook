@@ -8,7 +8,7 @@ Description automatically generated](.gitbook/assets/1.png)
 
 **GovCMS8 Content Administration**
 
-Training Manual
+Training Manual test
 
 Prepared By: Salsa Digital on behalf of GovCMS
 
