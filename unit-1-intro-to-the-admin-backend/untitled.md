@@ -9,9 +9,7 @@ If your training environment is hosted in the GovCMS cluster \(hosted by Amazee.
 
 For this training course, every trainee is provided with an individual environment. To separate environments, we preconfigured individual URLs per environment. Each trainee should use their _Individual Environment ID_. Refer to the slide \(or the whiteboard\) for the environment URL.
 
-![A screenshot of a computer screen
-
-Description automatically generated](../.gitbook/assets/3.png)
+![](../.gitbook/assets/3.png)
 
 Navigate to the training environment URL displayed in the slide or whiteboard and type the following username and password into the authentication popup – this is to access the site.
 

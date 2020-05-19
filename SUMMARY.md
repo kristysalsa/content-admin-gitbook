@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Course overview](course-overview.md)
+* [GovCMS8 Content Administration Training Manual](README.md)
 
 ## Introduction to GovCMS
 
