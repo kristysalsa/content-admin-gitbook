@@ -5,8 +5,8 @@
 
 ## Introduction to GovCMS
 
-* [Introduction to GovCMS](intro.md)
-* [Overview of user roles](overview-of-user-roles.md)
+* [Introduction to GovCMS](introduction-to-govcms/intro.md)
+* [Overview of user roles](introduction-to-govcms/overview-of-user-roles.md)
 
 ## Unit 1: Intro to the Admin Backend
 
