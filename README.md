@@ -29,18 +29,17 @@ One of the advantages of GovCMS as a whole-of-government digital platform is tha
 
 We’re continually working on improving these documents with community input and would love to hear your thoughts. If you have a question, or something in the manual didn’t make sense, there are a few ways you can provide feedback: 
 
-* Email it to govcms.training@salsadigital.com.au 
-* Submit an issue GitHub issues queue https://github.com/govcms-training/content-admin/issues
-* Join the GovCMS Slack community.
+
+## Contributing & Feedback
+
+We’re continually working on improving these documents with community input and we appreciate any contribution, whether it is related to bugs, grammar, or simply a suggestion or improvement! Please refer to the Contributing guide for more guidance on this topic.
+
+Alternatively you can also provide feedback by emailing **govcms.training@salsadigital.com.au** 
+
 
 **Note**: While these training materials are updated regularly, modules are also often updated and so you may find some differences between your user interface and the screenshots in this document. We appreciate your feedback and will work as quickly as possible to incorporate any corrections.
-
-## Contributing
-
-If you'd like to help contribute to improving the manuals, please follow the instructions on contributing.MD here. 
 
 ## Terms of use
 
 ![](.gitbook/assets/2%20%281%29.png)   
 This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Australia License \(CC BY-SA 3.0 AU\). To view a copy of this license, visit [https://creativecommons.org/licenses/by-sa/3.0/au/](https://slack-redir.net/link?url=https%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2Fau%2F).
-
