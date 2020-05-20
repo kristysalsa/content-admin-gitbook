@@ -27,14 +27,10 @@ Welcome to GovCMS, a whole-of-government digital platform based on open source c
 
 One of the advantages of GovCMS as a whole-of-government digital platform is that the content covered in this course can be applied to the many GovCMS websites across Australian government. In addition, while this course focuses on GovCMS, much of the content and exercises can be applied to Drupal websites.
 
-## Feedback and Questions
-
-We’re continually working on improving these documents with community input and would love to hear your thoughts. If you have a question, or something in the manual didn’t make sense, there are a few ways you can provide feedback: 
-
 
 ## Contributing & Feedback
 
-We’re continually working on improving these documents with community input and we appreciate any contribution, whether it is related to bugs, grammar, or simply a suggestion or improvement! Please refer to the Contributing guide for more guidance on this topic.
+We’re continually working on improving these documents with community input and we appreciate any feedback, whether it's helping to contribute to further documentation or code, grammar issues, or simply a suggestion or improvement! Please refer to the Contributing guide for more guidance on this topic.
 
 Alternatively you can also provide feedback by emailing **govcms.training@salsadigital.com.au** 
 
