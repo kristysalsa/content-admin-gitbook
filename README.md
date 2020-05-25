@@ -1,5 +1,7 @@
 # GovCMS8 Content Administration Training Manual
 
+![GovCMS Logo](.gitbook/assets/govcms-logo.png) ![Salsa Digital Logo](.gitbook/assets/salsa-logo.png)
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This training manual is for government or not-for-profit employees using GovCMS to edit and manage their website. However, many of the concepts in this manual can be applied to other Drupal sites. 
