@@ -1,6 +1,6 @@
 # Table of contents
 
-* [GovCMS8 Content Administration Training Manual](README.md)
+* [GovCMS Content Administration Training Manual](README.md)
 * [Contributing and Feedback Guide](CONTRIBUTING.md)
 
 ## Introduction to GovCMS

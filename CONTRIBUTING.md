@@ -9,7 +9,7 @@ https://salsa-digital.gitbook.io/govcms-content-administration.
 If you want to contribute and make changes to the manuals, this page will guide you through the contribution process, outlining which tools we use and the steps you need to follow to contribute. 
 
 
-## Providing feedback
+## Providing Feedback
 
 There are a few ways you can provide feedback: 
 
