@@ -6,7 +6,7 @@
 
 This training manual is for government or not-for-profit employees using GovCMS to edit and manage their website. However, many of the concepts in this manual can be applied to other Drupal sites. 
 
-This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course \(and using GovCMS\) easier.
+This manual assumes you have GovCMS on your local computer or on the GovCMS hosting platform. While there are no specific knowledge prerequisites, if you’ve had experience with other CMSs you’ll find this course (and using GovCMS) easier.
 
 Public URL: https://salsa-digital.gitbook.io/govcms-content-administration
 GitHub URL: https://github.com/govcms-training/content-admin
@@ -28,7 +28,7 @@ In this training manual, you will learn how to:
 
 ## About GovCMS
 
-Welcome to GovCMS, a whole-of-government digital platform based on open source content management system \(CMS\) Drupal.
+Welcome to GovCMS, a whole-of-government digital platform based on open source content management system (CMS) Drupal.
 
 One of the advantages of GovCMS as a whole-of-government digital platform is that the content covered in this course can be applied to the many GovCMS websites across Australian government. In addition, while this course focuses on GovCMS, much of the content and exercises can be applied to Drupal websites.
 
