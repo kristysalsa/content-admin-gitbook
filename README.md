@@ -28,7 +28,7 @@ In this training manual, you will learn how to:
 
 ## About GovCMS
 
-Welcome to GovCMS, a whole-of-government digital platform based on open source content management system \(CMS\) Drupal.
+Welcome to GovCMS, a whole-of-government digital platform based on open source content management system (CMS) Drupal.
 
 One of the advantages of GovCMS as a whole-of-government digital platform is that the content covered in this course can be applied to the many GovCMS websites across Australian government. In addition, while this course focuses on GovCMS, much of the content and exercises can be applied to Drupal websites.
 
