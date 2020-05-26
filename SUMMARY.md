@@ -1,6 +1,7 @@
 # Table of contents
 
 * [GovCMS8 Content Administration Training Manual](README.md)
+* [Contributing and Feedback Guide](CONTRIBUTING.md)
 
 ## Introduction to GovCMS
 
@@ -90,5 +91,4 @@
 
 ## About Salsa Digital
 
-* [What is Salsa Digital?](about-salsa-digital/what-is-salsa-digital.md)
-
+* [Who is Salsa Digital?](about-salsa-digital/who-is-salsa-digital.md)
