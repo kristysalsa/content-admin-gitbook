@@ -44,11 +44,10 @@ The [public link on Gitbook](https://salsa-digital.gitbook.io/govcms-content-adm
 
 ## Beginner Guides & Cheatsheets
 
-* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-* If you need a visual app editor for editing Markdown: [Stack Edit](https://stackedit.io/app#)
-* [Gitbook Markdown guide](https://www.markdownguide.org/tools/gitbook/)
-* [Git Flow cheatsheet]
+* [Mastering Markdown - Github](https://guides.github.com/features/mastering-markdown/)
+* [Git Flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 * [Beginner Github guide](https://guides.github.com/activities/hello-world/)
+* If you need a visual app editor for editing Markdown: [Stack Edit](https://stackedit.io/app#)
 
 
 
